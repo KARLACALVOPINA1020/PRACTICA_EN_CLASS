@@ -23,6 +23,4 @@ public class Estudiante
         return true; 
     }
 }
-  private - 
-
-
+  private -  
